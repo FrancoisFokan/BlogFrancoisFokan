@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/FrancoisFokan/BlogFrancoisFokan.git
-base_url: profil github + .github.io/ + BlogFrancoisFokan + /)
+base_url: profil github.github.io/BlogFrancoisFokan/)
 collections:
     posts:
       share: [twitter, linkedin, facebook]
