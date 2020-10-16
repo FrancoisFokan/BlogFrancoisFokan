@@ -8,5 +8,6 @@ categories:
   - "M.E.A.L."
 output: distill::distill_article
 ---
+
 - Oct. 15th: This month I started to learn English. For that, I watch most films and series in original version. I also have a lot of friends who help me learn. Without forgetting the most important: the english lessons.
 
