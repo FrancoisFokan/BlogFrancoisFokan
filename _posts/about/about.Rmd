@@ -6,6 +6,4 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
-
 - François Fokan, Mr Devilez, bachelor in biological science.
