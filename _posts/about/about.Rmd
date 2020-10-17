@@ -8,4 +8,4 @@ output: distill::distill_article
 
 This section must bu include a short presentation of you.
 
-- first name/surname, teacher’s name, class name and academic year
+- François Fokan, Mr Devilez, bachelor in biological science.
