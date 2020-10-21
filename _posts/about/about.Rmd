@@ -1,9 +1,9 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "François Fokan" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-- François Fokan, Mr Devilez, bachelor in biological science.
+- My name is François Fokan, I am in the second year of a bachelor's in biological science and I have english lessons with Mr. Devilez.
