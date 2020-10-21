@@ -9,12 +9,8 @@ categories:
 output: distill::distill_article
 ---
 
-<<<<<<< HEAD
-- October 15th: This month, I started to learn English. For that, I watch most films and series in original version. I also have a lot of friends who help me learn. Without forgetting the most important: the english lessons.
-=======
 - October 15th: 
 This month I started to learn English. For that, I watch most films and series in original version. I also have a lot of friends who help me learn. Without forgetting the most important: the english lessons.
->>>>>>> 7548e41d2e336295037d81b9ec4a39d8915d2246
 
 - October 20th: My learning of the English language continues every day.
 In addition, I now understand the language a little better thanks to the English lessons and to the series and films in original version.
