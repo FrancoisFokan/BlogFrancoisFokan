@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2020-10-23-article/",
-    "title": "Article",
-    "description": "A short description of the post.",
+    "title": "About Primates",
+    "description": "It is important to start from the beginning.",
     "author": [
       {
         "name": "François Fokan",
@@ -12,7 +12,7 @@
     "date": "2020-10-23",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-23T13:47:20+02:00"
+    "last_modified": "2020-10-23T13:57:02+02:00"
   },
   {
     "path": "posts/about/",

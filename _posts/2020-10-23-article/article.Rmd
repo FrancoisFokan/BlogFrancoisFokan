@@ -1,6 +1,6 @@
 ---
 title: "About Primates"
-description: |It is important to start from the beginning.
+description: It is important to start from the beginning.
 author:
   - name: François Fokan
     url: {}
