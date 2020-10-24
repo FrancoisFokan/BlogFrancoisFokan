@@ -1,6 +1,6 @@
 ---
 title: "About Primates"
-description: It is important to start from the beginning.
+description: It seems important to start at the beginning.
 author:
   - name: François Fokan
     url: {}
@@ -13,8 +13,47 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+# Introduction
 
-Distill is a publication format for scientific and technical writing, native to the web.
+Before getting to the heart of the matter, it seems important to start at the beginning. Indeed, a good number of articles concerning the primates behavior will enrich this blog.
+It is important that anyone can read and understand these next lines. So here's a short introduction : **About primates**.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+![](images/chimpanzee-3703230_1280.jpg)
+
+## Classification
+
+| Phylogenic level | Primates    |
+|------------------|-------------|
+| Kingdom          | Animalia    |
+| Branch           | Chordata    |
+| Sub-branch       | Vertebrata  |
+| Super-class      | Tetrapoda   |
+| Class            | Mammalia    |
+| Sub-class        | Theira      |
+| Infra-class      | Placentalia |
+
+## Characteristics
+
+Primates have a large number of characteristics.
+
+Most primates habit in the forests of the tropics or subtropics. A majority of them are arborea, and a smaller part is terrestrial. However, they are all suitable for climbing trees. They use a mode of travel called: **brachiation**.
+
+Compared to other mammals, primates are characterized by **large brains and stereoscopic vision**. Most also have **opposable thumbs and some have a prehensile tail**.
+
+Many species exhibit **sexual dimorphism**, which means that males and females differ in physical traits. In addition, their weight varies greatly between species, and adults can live singly, in pairs or in groups of hundreds of individuals.
+
+Today, primates are divided into two groups: **haplorrhines and strepsirrhines**.
+
+Thanks to fossil finds, scientists estimate that the primitive ancestors of primates may have appeared around 66 million years ago, at the end of the Cretaceous Period. Unfortunately, many species of primates are in danger of extinction and are at risk of extinction by 2070.
+
+This therefore concludes this short introduction. 
+
+***“Now this is not the end. It is not even the beginning of the end. But is perhaps the end of the beginning.”***
+*Winston Churchill (November 1942)*
+
+(This is just to brag and show that I have culture. 😉)
+
+****
+
+Learn more about primates ? See this link : <https://en.wikipedia.org/wiki/Primate>.
 
