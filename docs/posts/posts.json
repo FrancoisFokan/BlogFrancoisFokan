@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-10-24-first-article/",
+    "title": "First Article",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "François Fokan",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-24",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-24T13:35:18+02:00"
+  },
+  {
     "path": "posts/2020-10-23-article/",
     "title": "About Primates",
     "description": "It seems important to start at the beginning.",
@@ -12,7 +27,7 @@
     "date": "2020-10-23",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-24T12:32:22+02:00"
+    "last_modified": "2020-10-24T13:31:57+02:00"
   },
   {
     "path": "posts/about/",

@@ -16,6 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Introduction
 
 Before getting to the heart of the matter, it seems important to start at the beginning. Indeed, a good number of articles concerning the primates behavior will enrich this blog.
+
 It is important that anyone can read and understand these next lines. So here's a short introduction : **About primates**.
 
 ![](images/chimpanzee-3703230_1280.jpg)
