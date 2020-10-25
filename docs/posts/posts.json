@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2020-10-24-first-article/",
-    "title": "First Article",
-    "description": "A short description of the post.",
+    "title": "First Article Analysis : Animals Use Social Distancing to Avoid Disease",
+    "description": "Lobsters, birds and some primates use quarantine to ward off infections",
     "author": [
       {
         "name": "François Fokan",
@@ -12,7 +12,7 @@
     "date": "2020-10-24",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-24T13:35:18+02:00"
+    "last_modified": "2020-10-25T13:55:56+01:00"
   },
   {
     "path": "posts/2020-10-23-article/",

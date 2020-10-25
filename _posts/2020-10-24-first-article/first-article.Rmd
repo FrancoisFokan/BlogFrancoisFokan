@@ -1,7 +1,7 @@
 ---
-title: "First Article"
+title: "First Article Analysis : Animals Use Social Distancing to Avoid Disease"
 description: |
-  A short description of the post.
+  Lobsters, birds and some primates use quarantine to ward off infections
 author:
   - name: François Fokan
     url: {}
@@ -15,7 +15,30 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+# I. Source Of The Article
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+- Learn More About This Article : *<https://www.scientificamerican.com/article/animals-use-social-distancing-to-avoid-disease1/>*
 
+- Publication Date : *August 1, 2020*
+
+- Word Count : *2368*
+
+**Disclaimer :** I only used one part of this article to do this analysis.
+
+****
+# II. Vocabulary
+
+| Word From The Text | Synonym/Definition In English | French Translation |
+|--------------------|-------------------------------|--------------------|
+|A                   |B                              |C                   |
+|A                   |B                              |C                   |
+
+****
+# III. Analysis Table About The Study
+
+| A | B |
+|---|---|
+|A  |B  |
+|A  |B  |
+
+****
