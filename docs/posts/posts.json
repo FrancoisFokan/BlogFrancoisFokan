@@ -1,6 +1,6 @@
 [
   {
-    "path": "posts/2020-10-24-first-article/",
+    "path": "posts/First Article Analysis/",
     "title": "First Article Analysis : Animals Use Social Distancing to Avoid Disease",
     "description": "Lobsters, birds and some primates use quarantine to ward off infections",
     "author": [
@@ -15,7 +15,7 @@
     "last_modified": "2020-10-25T18:05:05+01:00"
   },
   {
-    "path": "posts/2020-10-23-article/",
+    "path": "posts/About Primates/",
     "title": "About Primates",
     "description": "It seems important to start at the beginning.",
     "author": [
@@ -30,7 +30,7 @@
     "last_modified": "2020-10-24T13:31:57+02:00"
   },
   {
-    "path": "posts/about/",
+    "path": "posts/About Me/",
     "title": "About Me",
     "description": {},
     "author": [
@@ -45,7 +45,7 @@
     "last_modified": "2020-10-21T16:59:08+02:00"
   },
   {
-    "path": "posts/meal/",
+    "path": "posts/M.E.A.L/",
     "title": "My English Activity Log : MEAL",
     "description": {},
     "author": [
@@ -61,61 +61,5 @@
     ],
     "preview": {},
     "last_modified": "2020-10-21T17:24:09+02:00"
-  },
-  {
-    "path": "posts/2019-10-24-bacteria-antobiotics/",
-    "title": "Bacterium adaptation",
-    "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "Bacteria",
-      "Adaptation"
-    ],
-    "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-08T11:37:53+02:00",
-    "preview_width": 3333,
-    "preview_height": 2667
-  },
-  {
-    "path": "posts/2019-10-25-biggest-rodent/",
-    "title": "Biggest rodent",
-    "description": "Analysis of \"Biggest rodent 'fought with teeth' like tusks\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Van Lancker Ingrid",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "Paleontology",
-      "Rodent"
-    ],
-    "preview": {},
-    "last_modified": "2020-10-08T11:37:54+02:00"
   }
 ]
