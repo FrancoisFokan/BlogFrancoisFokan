@@ -5,11 +5,11 @@ author:
   - name: François Fokan
     url: {}
 date: 10-23-2020
+preview: images/chimpanzee.jpg
 output:
   distill::distill_article:
     self_contained: false
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
@@ -19,7 +19,7 @@ Before getting to the heart of the matter, it seems important to start at the be
 
 It is important that anyone can read and understand these next lines. So here's a short introduction : **About primates**.
 
-![](images/chimpanzee-3703230_1280.jpg)
+![](images/monkey.jpg)
 
 ## Classification
 
