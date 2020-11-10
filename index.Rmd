@@ -1,5 +1,5 @@
 ---
-title: "François Fokan's Blog"
+title: "Primate Behavior"
 site: distill::distill_website
 listing: posts
 ---

@@ -1,5 +1,6 @@
 ---
-title: "My English Activity Log : MEAL"
+title: "My English Activity Log (M.E.A.L.)"
+description: All about my progress in English.
 author:
   - name: "François Fokan" 
 date: "`r Sys.Date()`"
@@ -9,9 +10,14 @@ categories:
 output: distill::distill_article
 ---
 
-- October 15th: 
+- ***October 15th:*** 
 This month I started to learn English. For that, I watch most films and series in original version. I also have a lot of friends who help me learn. Without forgetting the most important: the english lessons.
 
-- October 20th: My learning of the English language continues every day.
+- ***October 20th:*** 
+My learning of the English language continues every day.
 In addition, I now understand the language a little better thanks to the English lessons and to the series and films in original version.
 This week, I have found at home a few conjugation and grammar books, as well as a book with 200 small tests to progress in English.
+
+- ***November 10th:*** 
+I'm starting to speak English better and better. I use a lot of little connecting words, like "if, so, but", *etc.*
+Finally, I don't find it too complicated. Even if it takes a lot of work from me.
