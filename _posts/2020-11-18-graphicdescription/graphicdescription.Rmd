@@ -1,0 +1,36 @@
+---
+title: "Graphic Description"
+description: |
+  In this article, I treat of the **sea urchin biometry**. I chose this dataset because it has a large number of variables (19). 
+  The sea urchins studied have two origins: one part comes from ***culture***, and the other from ***fishery***.
+author:
+  - name: François Fokan
+    url: {}
+date: 11-18-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Graphic
+```{r}
+SciViews::R
+
+data <- read("urchin_bio", package = "data.io")
+
+chart(urchin_bio, spines ~ sex %fill=% origin) +
+  geom_boxplot(na.rm = TRUE)
+```
+
+On this graph, we see that, despite their origin or their sex, the dry weight *(in g)* of calcareous parts of the spines is relatively the same in all individuals.
+
+However, there are some slight differences. **For males**, the individuals from culture have the highest dry weight of the spines, and **for females**, it is the individuals from fishery who have the highest dry weight of the spines.
+
+****
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-11-18-graphicdescription/",
+    "title": "Graphic Description",
+    "description": "In this article, I treat of the **sea urchin biometry**. I chose this dataset because it has a large number of variables (19). \nThe sea urchins studied have two origins: one part comes from ***culture***, and the other from ***fishery***.",
+    "author": [
+      {
+        "name": "François Fokan",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-18",
+    "categories": [],
+    "preview": "posts/2020-11-18-graphicdescription/graphicdescription_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2020-11-18T14:24:59+01:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/About Me/",
     "title": "About Me",
     "description": "That's right, who is François Fokan ?",
