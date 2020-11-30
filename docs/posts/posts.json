@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-11-30-third-article-analysis/",
+    "title": "Third Article Analysis : Coppery Titi Monkeys Do Not Deceive Their Partners",
+    "description": "In most species there is some proportion of offspring that is not sired by their social father.",
+    "author": [
+      {
+        "name": "François Fokan",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-30",
+    "categories": [],
+    "preview": "posts/2020-11-30-third-article-analysis/image/Coppery.jpg",
+    "last_modified": "2020-11-30T20:11:44+01:00"
+  },
+  {
     "path": "posts/M.E.A.L/",
     "title": "My English Activity Log (M.E.A.L.)",
     "description": "All about my progress in English.",
@@ -18,7 +33,7 @@
     "last_modified": "2020-11-25T09:47:34+01:00"
   },
   {
-    "path": "posts/2020-11-24-my-post/",
+    "path": "posts/Second Article Analysis/",
     "title": "Second Article Analysis : Conservation: Bridge Of Hope For World's Rarest Primate",
     "description": "Swinging through the treetops comes naturally for gibbons",
     "author": [
@@ -29,7 +44,7 @@
     ],
     "date": "2020-11-24",
     "categories": [],
-    "preview": "posts/2020-11-24-my-post/Images/gibbon.jpg",
+    "preview": "posts/Second Article Analysis/Images/gibbon.jpg",
     "last_modified": "2020-11-25T09:50:46+01:00"
   },
   {
