@@ -28,29 +28,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](images/logo.jpg)
 
-****
-
 # II. Vocabulary
 
-|     Word From The Text    |     Synomym/Definition in inglish    |     French Translation    |
-|---------------------------|--------------------------------------|---------------------------|
-|     Strikingly            |     Surprisingly, unbelievable       |     Remarquablement       |
-|     Grooming              |     Clean                            |     Toilettage            |
-|     Cement                |     Solidifies, strengthens          |     Cimente               |
-|     Avoid                 |     Keep away                        |     Éviter                |
-|     Rubbed                |     Knead                            |     Frotté                |
-|     Droppings             |     Excrement, dung                  |     Crottes               |
-|     Breeding              |     Reproduction, procreation        |     Reproduction          |
-|     Offspring             |     Children, progeny                |     Progéniture           |
-****
 # III. Analysis Table About The Study
-
-|     Themes                                    |     Article Content                                                                                                                                                                                                                                                                                        |
-|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     Researchers ?                             |     Dana M. Hawley *(professor at   Virginia Tech who studies social behavior and disease among animals)* & Julia   C. Buck *(assistant professor at the University of North Carolina at   Wilmington, where she runs a disease ecology laboratory)*.                                                          |
-|     Published In ? When ? *(if   mentioned)*    |     Scientific American, 1 August 2020.                                                                                                                                                                                                                                                                    |
-|     General Topic                             |     The social distancing in animals to   avoid disease.                                                                                                                                                                                                                                                   |
-|     Procedure/ What Was Examined ?            |     Mandrills, a very social primate   species, groom themselves frequently which improves hygiene and strengthens   social bonds, but they are more prudent with individuals in the group which   are contagious.                                                                                         |
-|     Conclusions/ Discovery                    |     Mandrills avoid grooming some   individuals. Indeed, they are able to detect infected individuals only on the   basis of scent. The mandrills presented with two bamboo stalks rubbed in   feces strongly avoided a stalk rubbed with droppings from another mandrill   that had lots of parasites.    |
-|     Remaining Questions                       |     Some mandrills don't keep social   distancing. They continue to treat their close relatives, even those with   high levels of the parasite.     This maintenance of social   relation gives advantages : Females with the strongest social ties reproduce   earlier and have more offspring.           |
-****
