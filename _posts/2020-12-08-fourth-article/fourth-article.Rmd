@@ -1,0 +1,17 @@
+---
+title: "Fourth Article Analysis : Monkeys May Share A Key Grammar-Related Skill With Humans"
+description: |
+  A capacity for recursion evolved early in primate evolution, a contested study suggests.
+author:
+  - name: François Fokan
+    url: {}
+date: 12-08-2020
+preview: .jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
