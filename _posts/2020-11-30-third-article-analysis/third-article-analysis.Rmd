@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Word Count : *474*
 
-![](image/daily.jpg)
+![](image/Daily.jpg)
 
 # II. Vocabulary
 |     Word From The Text    |     Synomym/Definition   in inglish    |     French Translation    |
