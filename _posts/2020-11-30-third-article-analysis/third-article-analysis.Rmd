@@ -1,7 +1,7 @@
 ---
 title: "Third Article Analysis : Coppery Titi Monkeys Do Not Deceive Their Partners"
 description: |
-  In most species there is some proportion of offspring that is not sired by their social father.
+  In most species there is some proportion of offspring that is not sired by their social father
 author:
   - name: François Fokan
     url: {}
@@ -15,3 +15,32 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+# I. Source Of The Article
+
+- Learn More About This Article : *https://www.sciencedaily.com/releases/2020/11/201123085328.htm*
+
+- Publication Date : *November 23, 2020*
+
+- Word Count : *474*
+
+![](image/daily.jpg)
+
+# II. Vocabulary
+|     Word From The Text    |     Synomym/Definition   in inglish    |     French Translation    |
+|---------------------------|----------------------------------------|---------------------------|
+|     Outweigh              |     Have the advantage over…           |     Emporter   sur…       |
+|     Caring                |     Attentive, heal                    |     Soins                 |
+|     Faecal                |     Defecation                         |     Fécal                 |
+|     Suitable              |     Satisfactory, acceptable           |     Adapté                |
+|     Incurring             |     Risk                               |     Encourir              |
+
+# III. Analysis Table About The Study
+|     Themes                                  |     Article Content                                                                                                                                                                                                                                                                                                                                                                                                     |
+|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Researchers   ?                         |     Sofya   Dolotovskaya *(PhD student in the Behavioral Ecology and Sociobiology   Department at the German Primate Center)*.                                                                                                                                                                                                                                                                                             |
+|     Published In ? When ? *(if mentioned)*    |     Deutsches primatenzentrum (DPZ), Leibniz-Institut für   primatenforschung, 23 november 2020.                                                                                                                                                                                                                                                                                                                        |
+|     General   Topic                         |     Coppery Titi monkeys do not deceive their partners.                                                                                                                                                                                                                                                                                                                                                                 |
+|     Procedure/   What Was Examined ?        |     By most species,   one proportion of offspring is not issu by their social father. Indeed, many   pair-living animal species do not have partnership fidelity as important.   Coppery Titi monkeys (living in the Amazon lowland rainforest) are maybe an   exception. Scientists could not find evidence for extra-pair paternity in   their study population in Peru.                                             |
+|     Conclusions/   Discovery                |     To have the best possible genes, individuals can use the genes of a   another male without giving up the security of their territory and the social   father. But, in Coppery titi monkeys, mate choice seems to be so successful   that no genetic advantage does not worth the social costs of infidelity. None   offspring examined were not sired by the social father. So, genetic monogamy   is confirmed.    |
+|     Remaining   Questions                   |     /                                                                                                                                                                                                                                                                                                                                                                                                                   |

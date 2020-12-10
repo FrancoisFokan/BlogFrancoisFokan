@@ -7,5 +7,17 @@ date: "`r Sys.Date()`"
 categories:
   - "English for Science"
   - "M.E.A.L."
+preview: image/speak1.png
 output: distill::distill_article
 ---
+![](image/speak2.jpg)
+****
+
+•	***October 15th:*** This month I started to learn english. For that, I watch most films and series in original version. I also have a lot of friends who help me learn. Without forgetting the most important: the english lessons.
+
+•	***October 20th:*** My learning of the english language continues every day. In addition, I now understand the language a little better thanks to the English lessons and to the series and films in original version. This week, I have found at home a few conjugation and grammar books, as well as a book with 200 small tests to progress in English.
+
+•	***November 10th:*** I’m starting to speak english better and better. I use a lot of little connecting words, like “if, so, but”, etc. Finally, I don’t find it too complicated. Even if it takes a lot of work from me.
+•	November 25th: Last week, I started remediation in english. I find it very useful because we are a small group and we go at our own pace. In addition, the assistants, Samuel and Juliette, are very nice.
+
+•	***December 09th:*** After three month of english, i have less and less difficulties to speak, write, read and listen. Even if i must again making a lot of effort. More, i think that is my last contributions to this section for this year. Indeed : Examens is coming.

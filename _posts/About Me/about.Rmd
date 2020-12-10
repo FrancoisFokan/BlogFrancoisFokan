@@ -6,6 +6,7 @@ author:
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
+![](image/UMons.png)
 
 - My name is François Fokan, I am in the second year of ***a bachelor's in biological science at UMons*** and I have english lessons with *Mr. Devilez*.
 
