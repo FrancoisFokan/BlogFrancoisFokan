@@ -1,0 +1,46 @@
+---
+title: "Fifth Article Analysis : A Crowded Mountain Can Make Silverback Gorillas More Violent"
+description: |
+  Gorillas are highly sociable animals – up to a point.
+author:
+  - name: François Fokan
+    url: {}
+date: 02-04-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# I. Source Of The Article
+
+- Learn More About This Article : *https://apnews.com/article/mountains-animals-demographics-rwanda-gorillas-3739502f048dc031cd26fc676b04c872*
+
+- Publication Date : *November 4, 2020*
+
+- Word Count : *605*
+
+# II. Vocabulary
+|     Word From The Text    |     Synomym/Definition   in inglish         |     French   Translation    |
+|---------------------------|---------------------------------------------|-----------------------------|
+|     Crowded               |     Throng                                  |     Surpeuplé, encombré     |
+|     Chomping              |     Munch or chew vigorously and noisily    |     Grignoter, mâcher       |
+|     Encounters            |     Run into someone                        |     Rencontres              |
+|     Teetering             |     Totter, wobble                          |     Vacillant               |
+|     Spanning              |     Straddle, stride over                   |     Couvrant                |
+|     Witnessed             |     Be present at...                        |     Témoin                  |
+|     Splintered            |     Shattered, broken                       |     Eclaté                  |
+|     Able                  |     Qualified to…                           |     Capable                 |
+
+# III. Analysis Table About The Study
+|     Themes                                  |     Article Content                                                   |
+|---------------------------------------------|-----------------------------------------------------------------------|
+|     Researchers ?                           |     Christina   Larson                                                |
+|     Published In ? When ? *(if mentioned)*    |     Associated Press, 4 november 2020                                 |
+|     General Topic                           |     A crowded   mountain can make silverback gorillas more violent    |
+|     Procedure/ What Was Examined ?          |                                                                       |
+|     Conclusions/ Discovery                  |                                                                       |
+|     Remaining Questions                     |                                                                       |
