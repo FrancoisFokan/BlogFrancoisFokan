@@ -6,6 +6,7 @@ author:
   - name: François Fokan
     url: {}
 date: 02-04-2021
+preview: image/gorille.jpeg
 output:
   distill::distill_article:
     self_contained: false
@@ -23,6 +24,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Word Count : *605*
 
+![](image/AP.png)
+
 # II. Vocabulary
 |     Word From The Text    |     Synomym/Definition   in inglish         |     French   Translation    |
 |---------------------------|---------------------------------------------|-----------------------------|
@@ -36,11 +39,11 @@ knitr::opts_chunk$set(echo = FALSE)
 |     Able                  |     Qualified to…                           |     Capable                 |
 
 # III. Analysis Table About The Study
-|     Themes                                  |     Article Content                                                   |
-|---------------------------------------------|-----------------------------------------------------------------------|
-|     Researchers ?                           |     Christina   Larson                                                |
-|     Published In ? When ? *(if mentioned)*    |     Associated Press, 4 november 2020                                 |
-|     General Topic                           |     A crowded   mountain can make silverback gorillas more violent    |
-|     Procedure/ What Was Examined ?          |                                                                       |
-|     Conclusions/ Discovery                  |                                                                       |
-|     Remaining Questions                     |                                                                       |
+|     Themes                                  |     Article Content                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Researchers ?                           |     Christina Larson                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|     Published In ? When ? (if mentioned)    |     Associated Press, 4   november 2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|     General Topic                           |     A crowded mountain can make   silverback gorillas more violent                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|     Procedure/ What Was Examined ?          |     In Rwanda, male gorillas, known as “Silverback”   fight among themselves to defend females and infants. Scientists analyzed,   using demographic and behavioral data, that as the number of gorilla family   groups increases in the habitat, so does the number of violent clashes. As a   result, some gorillas, including infants, have died, causing population   growth to slow. But in 2007, three family groups broke up, and the population   grew again.                                                                                                                                                                      |
+|     Conclusions/ Discovery                  |     In the end, 10   family groups appeared. These groups are dispersed to occupy more territory.   However, the violent clashes between them have tripled, the number of infant   deaths has been multiplied by 5 and the growth rate has been divided by 2.   When the old gorillas got old and died, the new males failed to keep the   group together. The study concluded that the frequency of gorilla family   encounters was determined by the number of family groups in an area, not the   total number of individuals. Scientists still do not understand all the   factors that determine leadership qualities in gorillas.    |
+|     Remaining Questions                     |     /                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
