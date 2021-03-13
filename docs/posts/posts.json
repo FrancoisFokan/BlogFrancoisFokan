@@ -9,18 +9,33 @@
         "url": {}
       }
     ],
-    "date": "2021-02-11",
+    "date": "2021-03-12",
     "categories": [
       "English for Science",
       "M.E.A.L."
     ],
     "preview": "posts/M.E.A.L/image/speak1.png",
-    "last_modified": "2021-02-11T14:33:08+01:00",
+    "last_modified": "2021-03-12T13:55:12+01:00",
     "preview_width": 572,
     "preview_height": 545
   },
   {
-    "path": "posts/2021-02-04-fifth-artcile-analysis/",
+    "path": "posts/Sixth Article Analysis/",
+    "title": "Sixth Article Analysis : Monkeys, Like Humans, Persist At Tasks They've Already Invested In",
+    "description": "Studying this phenomenon in animals can teach us about how their minds and ours work",
+    "author": [
+      {
+        "name": "François Fokan",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-03-13T11:39:12+01:00"
+  },
+  {
+    "path": "posts/Fifth Artcile Analysis/",
     "title": "Fifth Article Analysis : A Crowded Mountain Can Make Silverback Gorillas More Violent",
     "description": "Gorillas are highly sociable animals – up to a point.",
     "author": [
@@ -31,7 +46,7 @@
     ],
     "date": "2021-02-04",
     "categories": [],
-    "preview": "posts/2021-02-04-fifth-artcile-analysis/image/gorille.jpeg",
+    "preview": "posts/Fifth Artcile Analysis/image/gorille.jpeg",
     "last_modified": "2021-02-11T14:31:17+01:00"
   },
   {
@@ -50,7 +65,7 @@
     "last_modified": "2020-12-10T13:09:45+01:00"
   },
   {
-    "path": "posts/2020-12-08-fourth-article/",
+    "path": "posts/Fourth Article Analysis/",
     "title": "Fourth Article Analysis : Monkeys May Share A Key Grammar-Related Skill With Humans",
     "description": "A capacity for recursion evolved early in primate evolution, a contested study suggests",
     "author": [
@@ -61,11 +76,11 @@
     ],
     "date": "2020-12-08",
     "categories": [],
-    "preview": "posts/2020-12-08-fourth-article/image/monkey.jpg",
+    "preview": "posts/Fourth Article Analysis/image/monkey.jpg",
     "last_modified": "2020-12-10T12:54:16+01:00"
   },
   {
-    "path": "posts/2020-11-30-third-article-analysis/",
+    "path": "posts/Third Article Analysis/",
     "title": "Third Article Analysis : Coppery Titi Monkeys Do Not Deceive Their Partners",
     "description": "In most species there is some proportion of offspring that is not sired by their social father",
     "author": [
@@ -76,7 +91,7 @@
     ],
     "date": "2020-11-30",
     "categories": [],
-    "preview": "posts/2020-11-30-third-article-analysis/image/Coppery.jpg",
+    "preview": "posts/Third Article Analysis/image/Coppery.jpg",
     "last_modified": "2020-12-10T13:10:11+01:00"
   },
   {
@@ -95,7 +110,7 @@
     "last_modified": "2020-12-10T12:53:24+01:00"
   },
   {
-    "path": "posts/2020-11-18-graphicdescription/",
+    "path": "posts/Graphic Description/",
     "title": "Graphic Description",
     "description": "In this article, I treat of the **sea urchin biometry**. I chose this dataset because it has a large number of variables (19). \nThe sea urchins studied have two origins: one part comes from ***culture***, and the other from ***fishery***.",
     "author": [
@@ -106,7 +121,7 @@
     ],
     "date": "2020-11-18",
     "categories": [],
-    "preview": "posts/2020-11-18-graphicdescription/graphicdescription_files/figure-html5/unnamed-chunk-1-1.png",
+    "preview": "posts/Graphic Description/graphicdescription_files/figure-html5/unnamed-chunk-1-1.png",
     "last_modified": "2020-11-18T14:32:00+01:00",
     "preview_width": 1248,
     "preview_height": 768

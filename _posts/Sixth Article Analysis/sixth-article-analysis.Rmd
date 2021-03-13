@@ -1,0 +1,29 @@
+---
+title: "Sixth Article Analysis : Monkeys, Like Humans, Persist At Tasks They've Already Invested In"
+description: |
+  Studying this phenomenon in animals can teach us about how their minds and ours work
+author:
+  - name: François Fokan
+    url: {}
+date: 03-02-2021
+preview: images/
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# I. Source Of The Article
+
+- Learn More About This Article : *https://www.sciencedaily.com/releases/2020/12/201218112531.htm*
+
+- Publication Date : *December 18, 2020*
+
+- Word Count : *831*
+
+# II. Vocabulary
+
+# III. Analysis Table About The Study
