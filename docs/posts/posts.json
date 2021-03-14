@@ -9,15 +9,30 @@
         "url": {}
       }
     ],
-    "date": "2021-03-12",
+    "date": "2021-03-14",
     "categories": [
       "English for Science",
       "M.E.A.L."
     ],
     "preview": "posts/M.E.A.L/image/speak1.png",
-    "last_modified": "2021-03-12T13:55:12+01:00",
+    "last_modified": "2021-03-14T17:31:48+01:00",
     "preview_width": 572,
     "preview_height": 545
+  },
+  {
+    "path": "posts/Seventh Article Analysis/",
+    "title": "Seventh Article Analysis : Aging And Ailing Lab Chimps Are Still At Center Of Fight For Sanctuary",
+    "description": "Activists and some congressional lawmakers are demanding that the N.I.H. reconsider its refusal to move 39 chimpanzees from a research center to a sanctuary",
+    "author": [
+      {
+        "name": "François Fokan",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-13",
+    "categories": [],
+    "preview": "posts/Seventh Article Analysis/images/chimp.jpg",
+    "last_modified": "2021-03-14T17:34:14+01:00"
   },
   {
     "path": "posts/Sixth Article Analysis/",
@@ -31,8 +46,8 @@
     ],
     "date": "2021-03-02",
     "categories": [],
-    "preview": {},
-    "last_modified": "2021-03-13T11:39:12+01:00"
+    "preview": "posts/Sixth Article Analysis/images/capucin.jpg",
+    "last_modified": "2021-03-14T17:28:18+01:00"
   },
   {
     "path": "posts/Fifth Artcile Analysis/",
