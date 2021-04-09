@@ -1,5 +1,35 @@
 [
   {
+    "path": "posts/2021-04-09-bibliography/",
+    "title": "Bibliography",
+    "description": "All sources used",
+    "author": [
+      {
+        "name": "François Fokan",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-09",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-04-09T14:08:43+02:00"
+  },
+  {
+    "path": "posts/2021-04-09-introduction/",
+    "title": "Introduction",
+    "description": "Dear reader, welcome to my blog",
+    "author": [
+      {
+        "name": "François Fokan",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-09",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-04-09T14:14:14+02:00"
+  },
+  {
     "path": "posts/M.E.A.L/",
     "title": "My English Activity Log (M.E.A.L.)",
     "description": "All about my progress in English.",
@@ -9,20 +39,20 @@
         "url": {}
       }
     ],
-    "date": "2021-03-14",
+    "date": "2021-04-09",
     "categories": [
       "English for Science",
       "M.E.A.L."
     ],
     "preview": "posts/M.E.A.L/image/speak1.png",
-    "last_modified": "2021-03-14T17:31:48+01:00",
+    "last_modified": "2021-04-09T14:10:38+02:00",
     "preview_width": 572,
     "preview_height": 545
   },
   {
     "path": "posts/Seventh Article Analysis/",
-    "title": "Seventh Article Analysis : Aging And Ailing Lab Chimps Are Still At Center Of Fight For Sanctuary",
-    "description": "Activists and some congressional lawmakers are demanding that the N.I.H. reconsider its refusal to move 39 chimpanzees from a research center to a sanctuary",
+    "title": "Seventh Article Analysis : Aging and ailing lab Chimps are still at center of fight for Sanctuary",
+    "description": "The N.I.H. refuses to move 39 chimpanzees from a research center to a sanctuary",
     "author": [
       {
         "name": "François Fokan",
@@ -32,11 +62,11 @@
     "date": "2021-03-13",
     "categories": [],
     "preview": "posts/Seventh Article Analysis/images/chimp.jpg",
-    "last_modified": "2021-03-14T17:34:14+01:00"
+    "last_modified": "2021-04-09T14:26:56+02:00"
   },
   {
     "path": "posts/Sixth Article Analysis/",
-    "title": "Sixth Article Analysis : Monkeys, Like Humans, Persist At Tasks They've Already Invested In",
+    "title": "Sixth Article Analysis : Monkeys, like humans, persist at tasks they've already invested in",
     "description": "Studying this phenomenon in animals can teach us about how their minds and ours work",
     "author": [
       {
@@ -47,12 +77,12 @@
     "date": "2021-03-02",
     "categories": [],
     "preview": "posts/Sixth Article Analysis/images/capucin.jpg",
-    "last_modified": "2021-03-14T17:44:23+01:00"
+    "last_modified": "2021-04-09T14:23:55+02:00"
   },
   {
     "path": "posts/Fifth Artcile Analysis/",
-    "title": "Fifth Article Analysis : A Crowded Mountain Can Make Silverback Gorillas More Violent",
-    "description": "Gorillas are highly sociable animals – up to a point.",
+    "title": "Fifth Article Analysis : A crowded mountain can make Silverback Gorillas more violent",
+    "description": "Gorillas are highly sociable animals – up to a point",
     "author": [
       {
         "name": "François Fokan",
@@ -62,7 +92,7 @@
     "date": "2021-02-04",
     "categories": [],
     "preview": "posts/Fifth Artcile Analysis/image/gorille.jpeg",
-    "last_modified": "2021-02-11T14:31:17+01:00"
+    "last_modified": "2021-04-09T14:20:40+02:00"
   },
   {
     "path": "posts/About Me/",

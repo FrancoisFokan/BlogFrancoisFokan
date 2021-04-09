@@ -1,0 +1,50 @@
+---
+title: "Bibliography"
+description: |
+  All sources used
+author:
+  - name: François Fokan
+    url: {}
+date: 04-09-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Website :**
+
+(W. A.), (UNDATED), *Primate*, in *en.wikipedia.org*.
+
+(W. A.), (UNDATED), */*, in *translate.google.be*.
+
+**Article :**
+
+HAWLEY D., BUCK J., (August 1, 2020), *Animals Use Social Distancing to Avoid Disease*, in *www.scientificamerican.com*.
+
+BRIGGS H., (October 15, 2020), *Conservation: Bridge of hope for world's rarest primate*, in *www.bbc.com*.
+
+DOLOTOVSKAYA S., (November 23, 2020), *Coppery titi monkeys do not deceive their partners*, in *www.sciencedaily.com*.
+
+BOWER B., (June 26, 2020), *Monkeys may share a key grammar-related skill with humans*, in *www.sciencenews.org*.
+
+LARSON C., (November 4, 2020), *A crowded mountain can make silverback gorillas more violent*, in *www.apnews.com*.
+
+BOWER B., (December 18, 2020), *Monkeys, like humans, persist at tasks they've already invested in*, in *www.sciencedaily.com*.
+
+GORMAN J., (October 6, 2020), *Aging and Ailing Lab Chimps Are Still at Center of Fight for Sanctuary*, in *www.nytimes.com*.
+
+**Reportage :**
+
+JACKSON T., KERSHAW J., WELSH M., *Meet the chimps*, USA, National Geographic, December 11, 2020.
+
+**Manuals and dictionary :**
+
+BLATTES S., JANS V., UPJOHN J., (June 2003), *Minimum Competence In Scientific English*, *Nouvelle Edition*, Collection Grenoble Sciences, Paris.
+
+BONNEROT A.-M., (April 2014), *Grammaire anglaise*, in *Mémo*, Paris, Librio.
+
+ATKINS B., DUVAL A., MILNE R., (1987), *Dictionnaire Français-Anglais/Anglais-Français*, in *Le Robert*, Paris, Robert & Collection.

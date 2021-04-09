@@ -1,0 +1,40 @@
+---
+title: "Introduction"
+description: |
+  Dear reader, welcome to my blog
+author:
+  - name: François Fokan
+    url: {}
+date: 04-09-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Here you will find a whole series of ***scientific article reviews concerning the behaviour of primates***. But that's not all !
+
+You can also find the different sections down there:
+
+-	**About Me**
+That’s right, who is François Fokan?
+
+-	**About Primates**
+It seems important to start at the beginning.
+
+-	**My English Activity Log (M.E.A.L.)**
+All about my progress in English.
+
+-	**Graphic Description**
+A collaboration with the SDD course.
+
+-	**Introduction, Conclusion & Bibliography**
+
+Why did I decide to deal with this topic? I recommend the "***About Me***" section to find out everything about my background and my motivations.
+
+Good reading !
+
+Francois.
