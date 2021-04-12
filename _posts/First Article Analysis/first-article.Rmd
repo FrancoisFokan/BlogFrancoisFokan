@@ -1,5 +1,5 @@
 ---
-title: "First Article Analysis : Animals Use Social Distancing to Avoid Disease"
+title: "First Article Analysis : Animals use social distancing to avoid disease"
 description: |
   Lobsters, birds and some primates use quarantine to ward off infections
 author:

@@ -1,20 +1,5 @@
 [
   {
-    "path": "posts/2021-04-12-conclusion/",
-    "title": "Conclusion",
-    "description": "Here we are at the end of this Blog",
-    "author": [
-      {
-        "name": "François Fokan",
-        "url": {}
-      }
-    ],
-    "date": "2021-04-12",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2021-04-12T15:02:38+02:00"
-  },
-  {
     "path": "posts/About Me/",
     "title": "About Me",
     "description": "That's right, who is François Fokan ?",
@@ -32,7 +17,22 @@
     "preview_height": 135
   },
   {
-    "path": "posts/2021-04-09-bibliography/",
+    "path": "posts/Conclusion/",
+    "title": "Conclusion",
+    "description": "Here we are at the end of this Blog",
+    "author": [
+      {
+        "name": "François Fokan",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-12",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-04-12T15:02:38+02:00"
+  },
+  {
+    "path": "posts/Bibliography/",
     "title": "Bibliography",
     "description": "All sources used",
     "author": [
@@ -47,7 +47,7 @@
     "last_modified": "2021-04-09T14:08:43+02:00"
   },
   {
-    "path": "posts/2021-04-09-introduction/",
+    "path": "posts/Introduction/",
     "title": "Introduction",
     "description": "Dear reader, welcome to my blog",
     "author": [
@@ -109,7 +109,7 @@
     "date": "2021-03-02",
     "categories": [],
     "preview": "posts/Sixth Article Analysis/images/capucin.jpg",
-    "last_modified": "2021-04-12T15:01:15+02:00"
+    "last_modified": "2021-04-12T19:22:58+02:00"
   },
   {
     "path": "posts/Fifth Artcile Analysis/",
@@ -124,11 +124,11 @@
     "date": "2021-02-04",
     "categories": [],
     "preview": "posts/Fifth Artcile Analysis/image/gorille.jpeg",
-    "last_modified": "2021-04-12T15:01:28+02:00"
+    "last_modified": "2021-04-12T19:22:47+02:00"
   },
   {
     "path": "posts/Fourth Article Analysis/",
-    "title": "Fourth Article Analysis : Monkeys May Share A Key Grammar-Related Skill With Humans",
+    "title": "Fourth Article Analysis : Monkeys may share a key grammar-related skill with humans",
     "description": "A capacity for recursion evolved early in primate evolution, a contested study suggests",
     "author": [
       {
@@ -139,11 +139,11 @@
     "date": "2020-12-08",
     "categories": [],
     "preview": "posts/Fourth Article Analysis/image/monkey.jpg",
-    "last_modified": "2021-04-12T15:01:43+02:00"
+    "last_modified": "2021-04-12T19:21:12+02:00"
   },
   {
     "path": "posts/Third Article Analysis/",
-    "title": "Third Article Analysis : Coppery Titi Monkeys Do Not Deceive Their Partners",
+    "title": "Third Article Analysis : Coppery Titi monkeys do not deceive their partners",
     "description": "In most species there is some proportion of offspring that is not sired by their social father",
     "author": [
       {
@@ -154,11 +154,11 @@
     "date": "2020-11-30",
     "categories": [],
     "preview": "posts/Third Article Analysis/image/Coppery.jpg",
-    "last_modified": "2021-04-12T15:01:53+02:00"
+    "last_modified": "2021-04-12T19:19:49+02:00"
   },
   {
     "path": "posts/Second Article Analysis/",
-    "title": "Second Article Analysis : Conservation: Bridge Of Hope For World's Rarest Primate",
+    "title": "Second Article Analysis : Conservation: Bridge of hope for world's rarest primate",
     "description": "Swinging through the treetops comes naturally for gibbons",
     "author": [
       {
@@ -169,7 +169,7 @@
     "date": "2020-11-24",
     "categories": [],
     "preview": "posts/Second Article Analysis/Images/gibbon.jpg",
-    "last_modified": "2021-04-12T15:02:03+02:00"
+    "last_modified": "2021-04-12T19:18:25+02:00"
   },
   {
     "path": "posts/Graphic Description/",
@@ -190,7 +190,7 @@
   },
   {
     "path": "posts/First Article Analysis/",
-    "title": "First Article Analysis : Animals Use Social Distancing to Avoid Disease",
+    "title": "First Article Analysis : Animals use social distancing to avoid disease",
     "description": "Lobsters, birds and some primates use quarantine to ward off infections",
     "author": [
       {
@@ -201,7 +201,7 @@
     "date": "2020-10-24",
     "categories": [],
     "preview": "posts/First Article Analysis/images/mandrills.jpg",
-    "last_modified": "2021-04-12T15:02:14+02:00"
+    "last_modified": "2021-04-12T19:16:46+02:00"
   },
   {
     "path": "posts/About Primates/",

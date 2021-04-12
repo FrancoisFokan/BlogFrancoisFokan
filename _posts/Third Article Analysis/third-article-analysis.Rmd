@@ -1,5 +1,5 @@
 ---
-title: "Third Article Analysis : Coppery Titi Monkeys Do Not Deceive Their Partners"
+title: "Third Article Analysis : Coppery Titi monkeys do not deceive their partners"
 description: |
   In most species there is some proportion of offspring that is not sired by their social father
 author:

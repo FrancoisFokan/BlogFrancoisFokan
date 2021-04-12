@@ -1,5 +1,5 @@
 ---
-title: "Second Article Analysis : Conservation: Bridge Of Hope For World's Rarest Primate"
+title: "Second Article Analysis : Conservation: Bridge of hope for world's rarest primate"
 description: |
   Swinging through the treetops comes naturally for gibbons
 author:

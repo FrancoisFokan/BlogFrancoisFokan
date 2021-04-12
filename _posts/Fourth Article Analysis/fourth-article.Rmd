@@ -1,5 +1,5 @@
 ---
-title: "Fourth Article Analysis : Monkeys May Share A Key Grammar-Related Skill With Humans"
+title: "Fourth Article Analysis : Monkeys may share a key grammar-related skill with humans"
 description: |
   A capacity for recursion evolved early in primate evolution, a contested study suggests
 author:
