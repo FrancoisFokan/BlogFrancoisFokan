@@ -4,6 +4,7 @@ description: That's right, who is François Fokan ?
 author:
   - name: "François Fokan" 
 date: "`r Sys.Date()`"
+preview: image/UMons.png
 output: distill::distill_article
 ---
 ![](image/UMons.png)
@@ -11,3 +12,13 @@ output: distill::distill_article
 - My name is François Fokan, I am in the second year of ***a bachelor's in biological science at UMons*** and I have english lessons with *Mr. Devilez*.
 
   I have always been passionate about **flora and fauna**. And this blog allows me to share this passion with you.
+  
+  
+  
+## Contact me ?
+
+By my UMons address : *Francois.FOKAN@student.umons.ac.be*
+
+By my private address : *fokan.f@gmail.com*
+
+Or by Facebook / Messenger : *François Fokan*

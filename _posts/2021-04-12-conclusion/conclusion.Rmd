@@ -1,0 +1,35 @@
+---
+title: "Conclusion"
+description: |
+  Here we are at the end of this Blog
+author:
+  - name: François Fokan
+    url: {}
+date: 04-12-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Thanks for taking your time to take a look at my work !
+
+This blog has allowed me to learn to master different computer tools and to improve my English enormously. It was a very nice experience, which made me discover a lot of things about primates and about biologicalscience, more generally.
+
+To find all the sources that allowed me to create this Blog, go to the "***Bibliography***" section. There you will find the link to all the original articles.
+
+If you ever have any questions as a result of what you have just read, please do not hesitate to contact me. I would be happy to answer you.
+
+## Special Thanks : 
+
+- Kindylides Samuel
+
+- Antoine Fokan
+
+- Guillaume Gego
+
+- Dorio Luca
+
