@@ -1,8 +1,39 @@
 ---
 title: "Primate Behavior"
 site: distill::distill_website
-listing: posts
+listing:
+  posts:
+    - About Me
+    
+    - M.E.A.L
+    
+    - Introduction
+    
+    - About Primates
+    
+    - First Article Analysis
+    
+    - Second Article Analysis
+    
+    - Third Article Analysis
+    
+    - Fourth Article Analysis
+    
+    - Fifth Article Analysis
+    
+    - Sixth Article Analysis
+    
+    - Seventh Article Analysis
+    
+    - Conclusion
+    
+    - Bibliography
+    
+    - Graphic Description
 ---
+
+# Homepage
+Here we go again
 
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
