@@ -3,11 +3,11 @@ title: "Primate Behavior"
 site: distill::distill_website
 listing:
   posts:
+    - Introduction
+    
     - About Me
     
     - M.E.A.L
-    
-    - Introduction
     
     - About Primates
     
@@ -33,7 +33,7 @@ listing:
 ---
 
 # Homepage
-Here we go again
+Here you will find all sections
 
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
