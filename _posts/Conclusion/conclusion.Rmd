@@ -17,7 +17,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Thanks for taking your time to take a look at my work !
 
-This blog has allowed me to learn to master different computer tools and to improve my English enormously. It was a very nice experience, which made me discover a lot of things about primates and about biologicalscience, more generally.
+This blog has allowed me to learn to master different computer tools and to improve my English enormously considerably. It forced me to work regularly and taught me a lot. It was a very nice and pleasing experience, which made me discover a lot of things about primates and about biologicalscience, more generally.
+
+Did you enjoy reading these article analysis ? And most importantly, did you learn things that you did not know? I hope so anyways.
 
 To find all the sources that allowed me to create this Blog, go to the "***Bibliography***" section. There you will find the link to all the original articles.
 
